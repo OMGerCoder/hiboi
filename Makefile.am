@@ -1,1 +1,2 @@
-SUBDIRS = src/bin
+SUBDIRS = src/bin \
+          src/lib
